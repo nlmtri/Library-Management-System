@@ -1,0 +1,63 @@
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.exe
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.deps.json
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.json
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.dev.json
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.dll
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\ref\LibaryManagementSystem.dll
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.pdb
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfo.cs
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.dll
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\ref\LibaryManagementSystem.dll
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.pdb
+C:\Users\luanlc\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.genruntimeconfig.cache
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.exe
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.deps.json
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.json
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.dev.json
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.dll
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\ref\LibaryManagementSystem.dll
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.pdb
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.AssemblyReference.cache
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfoInputs.cache
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfo.cs
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.dll
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\ref\LibaryManagementSystem.dll
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.pdb
+E:\UNIVERSITY_OF_GREENWICH\1651 - ADVANCED PROGRAMMING\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.genruntimeconfig.cache
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.exe
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.deps.json
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.json
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.dev.json
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.dll
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\ref\LibaryManagementSystem.dll
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.pdb
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.AssemblyReference.cache
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfoInputs.cache
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfo.cs
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.dll
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\ref\LibaryManagementSystem.dll
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.pdb
+E:\GitHub\LibraryManagementSystem\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.genruntimeconfig.cache
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.exe
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.deps.json
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.json
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.runtimeconfig.dev.json
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.dll
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\ref\LibaryManagementSystem.dll
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\bin\Debug\net5.0\LibaryManagementSystem.pdb
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.AssemblyInfo.cs
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.dll
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\ref\LibaryManagementSystem.dll
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.pdb
+C:\Users\MinhTri\Desktop\LibraryManagementSystem-main\LibraryManagementSystem-main\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\net5.0\LibaryManagementSystem.genruntimeconfig.cache
